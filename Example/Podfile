@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LGFCollectionLayout_Example' do
+  pod 'LGFCollectionLayout', :path => '../'
+
+  target 'LGFCollectionLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
