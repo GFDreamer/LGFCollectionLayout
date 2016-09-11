@@ -1,0 +1,22 @@
+{
+  "name": "LGFCollectionLayout",
+  "version": "0.1.0",
+  "summary": "A short description of LGFCollectionLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LGFCollectionLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qddios2": "1679606091@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LGFCollectionLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LGFCollectionLayout/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LGFCollectionLayout_Example {
+  umbrella header "Pods-LGFCollectionLayout_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

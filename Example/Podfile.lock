@@ -1,0 +1,16 @@
+PODS:
+  - LGFCollectionLayout (0.1.0)
+
+DEPENDENCIES:
+  - LGFCollectionLayout (from `../`)
+
+EXTERNAL SOURCES:
+  LGFCollectionLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LGFCollectionLayout: ed93530fcd6ce643b4431f42fe769a6c7f9e1218
+
+PODFILE CHECKSUM: df97a7c62695399e907619af03f2343387b55f10
+
+COCOAPODS: 1.0.0
